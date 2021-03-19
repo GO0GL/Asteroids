@@ -1,7 +1,7 @@
 // Daniel Shiffman
 // http://codingrainbow.com
 // http://patreon.com/codingrainbow
-// Code for: https://youtu.be/hacZU523FyM
+// Code for: https://youtu.be/hacZU523FyMs
 
 function Ship(pos, r) {
   Entity.call(this, width / 2, height / 2, 20);
